@@ -22,7 +22,7 @@
   },
   "name": "webpack",
   "version": "1.0.0",
-  "homepage": "https://.",
+  "homepage": "https://NikDimer.github.io/shri_simple_template",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve",
