@@ -22,7 +22,6 @@ const config = {
     }),
   ],
   output: {
-    publicPath: "/shri_simple_template/",
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].[contenthash].js',
     clean: true,
